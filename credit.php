@@ -1,0 +1,1 @@
+<h2 class="to-animate">Elate is a Free HTML5 Bootstrap Template Released Under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a></h2>
